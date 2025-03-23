@@ -1,0 +1,1 @@
+I have made a ROCK PAPER SCISSOR game , where you select an option between rock,paper and scissor and computer randomly selects any option , then you can see if you win or loose (also stored count of winning).
